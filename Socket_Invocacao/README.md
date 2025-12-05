@@ -69,21 +69,21 @@ npx ts-node gateway.ts
 
 Processador
 ```bash
-npx ts-node processador.js
+npx ts-node processador.ts
 ```
 
 Cloud
 ```bash
-npx ts-node cloud.js
+npx ts-node cloud.ts
 ```
 
 Sensores (um por bairro)
 ```bash
-npx ts-node sensor.js Centro 5000
-npx ts-node sensor.js Norte 5001
-npx ts-node sensor.js Sul 5002
-npx ts-node sensor.js Leste 5003
-npx ts-node sensor.js Oeste 5004
+npx ts-node sensor.ts Centro 5000
+npx ts-node sensor.ts Norte 5001
+npx ts-node sensor.ts Sul 5002
+npx ts-node sensor.ts Leste 5003
+npx ts-node sensor.ts Oeste 5004
 ```
 
 🔍 Exemplo de Saída
